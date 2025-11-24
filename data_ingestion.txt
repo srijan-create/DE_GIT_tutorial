@@ -1,2 +1,2 @@
 Hi I am ingesting data in this file
-Ingetsted data here from master
+Ingested data here from master
